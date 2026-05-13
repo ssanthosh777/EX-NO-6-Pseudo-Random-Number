@@ -1,4 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 # ALGORITHM:
@@ -8,7 +12,7 @@ Get the number of randon number to generate.
 Pass the value for number of iterations and print the numbers.
 End the program.
 # PROGRAM:
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -27,7 +31,8 @@ int main() {
 }
 ```
 # OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d7ae50b-6fd0-4c89-9882-27d9fddb9c04" />
+<img width="668" height="78" alt="Screenshot 2026-05-13 112729" src="https://github.com/user-attachments/assets/2a12c9a1-052c-4001-a8b4-35b77c2c8260" />
+
 # RESULT:
 The program is executed successfully
 
