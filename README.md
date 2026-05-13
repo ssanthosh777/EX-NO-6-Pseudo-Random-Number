@@ -34,5 +34,5 @@ int main() {
 <img width="668" height="78" alt="Screenshot 2026-05-13 112729" src="https://github.com/user-attachments/assets/2a12c9a1-052c-4001-a8b4-35b77c2c8260" />
 
 # RESULT:
-The program is executed successfully
+The program is executed successfully and the output is viewed.
 
